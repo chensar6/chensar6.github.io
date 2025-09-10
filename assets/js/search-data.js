@@ -27,17 +27,6 @@ ninja.data = [{
             window.location.href = "/blog/2025/the-body-keeps-the-score/";
           
         },
-      },{id: "post-test",
-        
-          title: "test",
-        
-        description: "testing blog features",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2025/test/";
-          
-        },
       },{id: "books-the-godfather",
           title: 'The Godfather',
           description: "",
