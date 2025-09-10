@@ -16,6 +16,13 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/blog/";
           },
+        },{id: "nav-d-amp-d",
+          title: "d&amp;d",
+          description: "D&amp;D materials. Currently under construction.",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/dnd/";
+          },
         },{id: "post-reading-the-body-keeps-the-score",
         
           title: "Reading The Body Keeps The Score",
