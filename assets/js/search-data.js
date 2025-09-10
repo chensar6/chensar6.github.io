@@ -16,7 +16,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/blog/";
           },
-        },{id: "post-test",
+        },{id: "post-reading-the-body-keeps-the-score",
+        
+          title: "Reading The Body Keeps The Score",
+        
+        description: "Some insights from the book.",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/the-body-keeps-the-score/";
+          
+        },
+      },{id: "post-test",
         
           title: "test",
         
