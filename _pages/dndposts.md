@@ -9,7 +9,7 @@ display_categories: [resources, lore]
 horizontal: false
 ---
 
-This page is under constru_ction but will soon be populated with D&D resources for those playing in the group I am DMing.
+This page is under construction but will soon be populated with D&D resources for those playing in the group I am DMing.
 
 <!-- pages/dndposts.md -->
 <div class="projects">

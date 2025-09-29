@@ -1,80 +1,47 @@
 ---
 layout: page
-title: dnd post 1
-description: with background image
-img: assets/img/12.jpg
+title: Character Creation
+date: 2025-09-29
+description: How to make D&D characters.
+img: assets/img/brcover.jpg
 importance: 1
 category: resources
 ---
+<hr>
+You can read all of what I’m about to say <a href="https://www.dndbeyond.com/sources/dnd/basic-rules-2014">here</a>.
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+Please note that we’ll be creating level 2 characters with D&D 5e 2014 rules.
+<hr>
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
+#### Personal Characteristics
 
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
+Building a character may seem daunting, especially if you’re thinking about how you’ll be committed to playing this character for a long time. Some things that help me think about what kind of character to build are personal characteristics! These are ideals, flaws, and bonds, and you can read more about these <a href="https://www.dndbeyond.com/sources/basic-rules/personality-and-background#PersonalCharacteristics">here</a>.
 
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
-</div>
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    This image can also have a caption. It's like magic.
-</div>
+They're just a good start on how your character will think and make decisions. I found a random set of examples of these <a href="https://www.enworld.org/threads/list-of-all-personality-traits-ideals-bonds-flaws.469002/">here</a>.
 
-You can also put regular text between your rows of images, even citations {% cite einstein1950meaning %}.
-Say you wanted to write a bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, _bled_ for your project, and then... you reveal its glory in the next row of images.
+Another good thing to think about is: does it make sense for your character to be in this specific campaign? There needs to be a buy-in into the plot. It wouldn’t be good if you had a character that had no reason to join the party.
 
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
-</div>
+As you play your character, things change, experiences are experienced, so don’t think of these as set in stone. These characters are allowed to grow and evolve, (just like you are allowed to in real life).
 
-The code is simple.
-Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/">Bootstrap Grid</a> system).
-To make images responsive, add `img-fluid` class to each; for rounded corners and shadows use `rounded` and `z-depth-1` classes.
-Here's the code for the last row of images above:
+#### Race
 
-{% raw %}
+Additionally, you're going to want to look over races and classes. Some examples of races are: human, half-elf, elf, gnome, dwarf, tiefling, etc. Because I'm a new DM and I don't know the intricacies of races, we'll go with the PHB (Player's Handbook 5e 2014) basic rules' races found <a href="https://www.dndbeyond.com/sources/dnd/basic-rules-2014/races">here</a>.
 
-```html
-<div class="row justify-content-sm-center">
-  <div class="col-sm-8 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-  <div class="col-sm-4 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-</div>
-```
+Please note that since we are playing the 2014 rules, there will be race-specific traits that increase ability scores.
 
-{% endraw %}
+#### Class
+
+And <a href="https://www.dndbeyond.com/sources/dnd/basic-rules-2014/classes">here</a> are the classes. We'll also only go with the basic rules' classes.
+
+Think about how you want to be during combat... Do you want to play support? Do you want to use ranged attacks? Are those ranged attacks with magic or physical damage? Do you want to be in the front line doing damage? Do you want to be in the front-line tanking damage? Blah blah. 
+
+You can use DnD Beyond for an online character sheet. It makes things a lot easier for players because you can read up on the spells really easily. The website is <a href="https://www.dndbeyond.com/characters">here</a>. I tend to use digital character sheets.
+
+The issue is, however, DnD Beyond is locked behind paywalls, you will not get access to all your spells, so that may mean that you have to add spells to the notes section of your digital character sheet.
+
+If you want to fill it in physically (I genuinely respect people who play with a physical sheet... this is definitely the cooler, traditional way), you can find it <a href="https://media.wizards.com/2022/dnd/downloads/DnD_5E_CharacterSheet_FormFillable.pdf">here</a>. 
+
+<hr>
+#### Note
+
+I want to be flexible! If there’s something that you really want to be that isn’t listed as an option, just let me know.
