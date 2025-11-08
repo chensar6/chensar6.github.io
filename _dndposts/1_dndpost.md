@@ -14,9 +14,8 @@ Please note that we are following D&D 5e (2014) rules.
 <hr>
 
 #### Levels/Levelling
-Characters will be starting at second level. 
+Characters will be starting at second level. We'll be using milestone progression (I won't be using experience points to determine when the party levels)
 
-We'll use a point buy system to determine ability scores. You will have 27 points to spend, with each ability score starting at 8 and each point above 8 costing 1 point.
 
 #### Personal Characteristics
 
@@ -46,6 +45,8 @@ The issue is, however, DnD Beyond is locked behind paywalls, you will not get ac
 
 If you want to fill it in physically (I genuinely respect people who play with a physical sheet... this is definitely the cooler, traditional way), you can find it <a href="https://media.wizards.com/2022/dnd/downloads/DnD_5E_CharacterSheet_FormFillable.pdf">here</a>. 
 
+#### Ability Scores
+We'll use a point buy system to determine ability scores. You will have 27 points to spend, with each ability score starting at 8 and each point above 8 costing 1 point.
 
 <hr>
 #### Note
