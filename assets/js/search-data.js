@@ -44,6 +44,21 @@ ninja.data = [{
           description: "How to make D&amp;D characters.",
           section: "Dndposts",handler: () => {
               window.location.href = "/dndposts/1_dndpost/";
+            },},{id: "dndposts-campaign-details",
+          title: 'Campaign Details',
+          description: "",
+          section: "Dndposts",handler: () => {
+              window.location.href = "/dndposts/2_dndpost/";
+            },},{id: "dndposts-the-pantheon",
+          title: 'The Pantheon',
+          description: "The pantheon of Lumir.",
+          section: "Dndposts",handler: () => {
+              window.location.href = "/dndposts/3_dndpost/";
+            },},{id: "dndposts-maps",
+          title: 'Maps',
+          description: "",
+          section: "Dndposts",handler: () => {
+              window.location.href = "/dndposts/4_dndpost/";
             },},{id: "news-a-simple-inline-announcement",
           title: 'A simple inline announcement.',
           description: "",
